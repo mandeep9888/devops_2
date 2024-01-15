@@ -1,6 +1,10 @@
 # devops_2
 
-![https://github.com/mandeep9888/devops_2/assets/24958351/34e7094c-77a2-47fb-a4e7-dc6ab4111330](https://github.com/mandeep9888/devops_2/blob/b83ffc6a551c6cbc97cdb167c082a6bed51fba4b/screenshots/devops_2.mp4)
+
+
+https://github.com/mandeep9888/devops_2/assets/24958351/fe42d45e-f2c3-4cf5-891b-3c805e295c70
+
+
 
 ![minikube](https://github.com/mandeep9888/devops_2/blob/b83ffc6a551c6cbc97cdb167c082a6bed51fba4b/screenshots/minikubeInstall.png)
 
