@@ -1,5 +1,10 @@
 # devops_2
 
+## clone this repo >> https://github.com/schadokar/docker-ethereum
+
+## cd docker-ethereum 
+
+## run `docker-compose up --build`
 
 
 https://github.com/mandeep9888/devops_2/assets/24958351/fe42d45e-f2c3-4cf5-891b-3c805e295c70
