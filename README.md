@@ -6,15 +6,18 @@
 
 ## run `docker-compose up --build`
 
+### app frontend should be running on port 3000 and backed server on port 4000
 
 https://github.com/mandeep9888/devops_2/assets/24958351/fe42d45e-f2c3-4cf5-891b-3c805e295c70
 
 
+### minikube installation 
 
 ![minikube](https://github.com/mandeep9888/devops_2/blob/b83ffc6a551c6cbc97cdb167c082a6bed51fba4b/screenshots/minikubeInstall.png)
-
+### Using Kubectl
 ![kubectl](https://github.com/mandeep9888/devops_2/blob/b83ffc6a551c6cbc97cdb167c082a6bed51fba4b/screenshots/kubectl_deployement.png)
 
+### kubectl dashboard
 ![dashboard](https://github.com/mandeep9888/devops_2/blob/b83ffc6a551c6cbc97cdb167c082a6bed51fba4b/screenshots/dashboard.png)
 
 ### what is kubernetes
