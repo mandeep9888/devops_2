@@ -1,6 +1,6 @@
 # devops_2
 
-![app demo](https://github.com/mandeep9888/devops_2/blob/b83ffc6a551c6cbc97cdb167c082a6bed51fba4b/screenshots/devops_2.mp4)
+![](https://github.com/mandeep9888/devops_2/blob/b83ffc6a551c6cbc97cdb167c082a6bed51fba4b/screenshots/devops_2.mp4)
 
 ![minikube](https://github.com/mandeep9888/devops_2/blob/b83ffc6a551c6cbc97cdb167c082a6bed51fba4b/screenshots/minikubeInstall.png)
 
